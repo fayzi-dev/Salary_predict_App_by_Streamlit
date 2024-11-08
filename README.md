@@ -1,5 +1,6 @@
 # the predict salary 
-
+App Link :
+https://verbose-giggle-q7vxw66gj5rjfxwr-8501.app.github.dev/
 ### How to run it on your own machine
 
 1. Install the requirements
@@ -13,3 +14,4 @@
    ```
    $ streamlit run salary_predict_app.py
    ```
+
