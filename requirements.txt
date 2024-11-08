@@ -1,1 +1,6 @@
+
 streamlit
+pandas
+pypickle
+# joblib
+numpy
