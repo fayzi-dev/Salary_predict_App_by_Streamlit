@@ -1,5 +1,5 @@
 # the predict salary 
-
+<img src"salary_predict.PNG" />
 ### How to run it on your own machine
 
 1. Install the requirements
